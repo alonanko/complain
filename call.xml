@@ -1,5 +1,5 @@
 <Response>
-    <Record action = "http://foo.com/get-recording/" startOnDialAnswer="true" redirect="false" />
+    <Record action = "https://raw.githubusercontent.com/alonanko/complain/master/recordlog" startOnDialAnswer="true" redirect="false" />
     <DTMF> 1 </DTMF>
     <Wait length ="7" />
     <Speak>You finally did it good for you</Speak>
