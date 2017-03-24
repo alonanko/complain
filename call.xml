@@ -5,5 +5,5 @@
     </Dial>
     <DTMF> 1 </DTMF>
     <Wait length ="3" />
-    <Speak>hello all this is really happening, its really really happening.</Speak>
+    <Speak>hello all, this is really happening, its really really happening.</Speak>
 </Response>
