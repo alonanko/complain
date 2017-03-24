@@ -4,6 +4,10 @@
         <Number>14084250925</Number>
     </Dial>
     <DTMF> 1 </DTMF>
-    <Wait length ="3" />
+    <Wait length ="1" />
+    <DTMF> 2 </DTMF>
+    <Wait length ="1" />
+    <DTMF> 3 </DTMF>
+    <Wait length ="1" />
     <Speak>hello all, this is really happening, its really really happening.</Speak>
 </Response>
