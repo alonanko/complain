@@ -1,6 +1,6 @@
 <Response>
-    <Record action = "http://fandc.duckdns.org/getStr/" startOnDialAnswer="true" redirect="true" />
+    <Record action = "http://fandc.duckdns.org/getStr/" startOnDialAnswer="true" redirect="false" />
     <DTMF> 1 </DTMF>
-    <Wait length ="7" />
+    <Wait length ="3" />
     <Speak>You finally did it good for you</Speak>
 </Response>
