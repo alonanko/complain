@@ -1,9 +1,9 @@
 <Response>
     <Record action = "http://fandc.duckdns.org/getStr/" startOnDialAnswer="true" redirect="false"/>
     <Dial>
-        <Number>18002882020</Number>
+        <Number>14084250925</Number>
     </Dial>
     <DTMF> 1 </DTMF>
     <Wait length ="3" />
-    <Speak>You finally did it good for you</Speak>
+    <Speak>hello all this is really happening, its really really happening.</Speak>
 </Response>
