@@ -5,5 +5,5 @@
     <Wait length ="1" />
     <DTMF> 3 </DTMF>
     <Wait length ="1" />
-    <Speak>hello all, this is really happening, its really really happening.</Speak>
+    <Speak>It's very urgent that you facebook message your son, Alon Ankonina immediately</Speak>
 </Response>
