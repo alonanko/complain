@@ -8,12 +8,12 @@
     <Wait length ="5" />
     <Speak>So Slow</Speak>
     <Wait length ="5" />
-    <Speak>So so so slow</Speak>
+    <Speak>So , so, slow</Speak>
     <Wait length ="5" />
     <Speak>It is too slow</Speak>
     <Wait length ="5" />
-    <Speak>Why, why do you do this to me?</Speak>
+    <Speak>make it, not slow</Speak>
     <Wait length ="5" />
-    <Speak>No</Speak>
+    <Speak>make it, fast</Speak>
     <Wait length ="10" />
 </Response>
