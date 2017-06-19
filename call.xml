@@ -1,5 +1,5 @@
 <Response>
-    <Record startOnDialAnswer = "true" redirect = "fasle" />
+    <Record action="https://github.com/alonanko/complain/blob/master/recordlog" startOnDialAnswer = "true" redirect = "fasle" />
     <Speak>No</Speak>
     <Wait length ="3" />
     <Speak>Nev ver</Speak>
