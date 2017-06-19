@@ -1,15 +1,17 @@
 <Response>
     <Speak>No</Speak>
     <Wait length ="3" />
-    <Speak>Absoluutely , Not</Speak>
-    <Wait length ="5" />
     <Speak>Nev ver</Speak>
     <Wait length ="5" />
     <Speak>My Internet, . it is slow</Speak>
     <Wait length ="5" />
     <Speak>So Slow</Speak>
     <Wait length ="5" />
-    <Speak>Why, why do you this to me?</Speak>
+    <Speak>So so so slow</Speak>
+    <Wait length ="5" />
+    <Speak>It is too slow</Speak>
+    <Wait length ="5" />
+    <Speak>Why, why do you do this to me?</Speak>
     <Wait length ="5" />
     <Speak>No</Speak>
     <Wait length ="10" />
