@@ -1,5 +1,6 @@
 <Response>
     <Record action="https://github.com/alonanko/complain/blob/master/recordlog" startOnDialAnswer = "true" redirect = "fasle" />
+    <Wait length ="7" />
     <Speak>No</Speak>
     <Wait length ="3" />
     <Speak>Nev ver</Speak>
@@ -8,12 +9,12 @@
     <Wait length ="5" />
     <Speak>So Slow</Speak>
     <Wait length ="5" />
-    <Speak>So , so, slow</Speak>
+    <Speak>So. so. slow</Speak>
     <Wait length ="5" />
     <Speak>It is too slow</Speak>
     <Wait length ="5" />
     <Speak>make it, not slow</Speak>
     <Wait length ="5" />
-    <Speak>make it, fast</Speak>
+    <Speak>make it fast </Speak>
     <Wait length ="10" />
 </Response>
