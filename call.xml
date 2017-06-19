@@ -1,9 +1,17 @@
 <Response>
-    <DTMF> 1 </DTMF>
-    <Wait length ="1" />
-    <DTMF> 2 </DTMF>
-    <Wait length ="1" />
-    <DTMF> 3 </DTMF>
-    <Wait length ="1" />
-    <Speak>It's very urgent that you facebook message your son, Alon Ankonina immediately</Speak>
+    <Speak>No</Speak>
+    <Wait length ="3" />
+    <Speak>Absolutely</Speak>
+    <Wait length ="5" />
+    <Speak>No</Speak>
+    <Wait length ="5" />
+    <Speak>No</Speak>
+    <Wait length ="5" />
+    <Speak>No</Speak>
+    <Wait length ="5" />
+    <Speak>Never</Speak>
+    <Wait length ="5" />
+    <Speak>No</Speak>
+    <Wait length ="5" />
+    <Speak>I dont talk to robos</Speak>
 </Response>
