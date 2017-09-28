@@ -2,7 +2,6 @@
     <Record action="https://github.com/alonanko/complain/blob/master/recordlog" startOnDialAnswer = "true" redirect = "false" />
     <Dial>
         <Number>18002882020</Number>
-    </Dial>
     <Wait length ="3" />
     <Speak>No</Speak>
     <Wait length ="3" />
@@ -20,4 +19,5 @@
     <Wait length ="5" />
     <Speak>make it fast </Speak>
     <Wait length ="10" />
+</Dial>
 </Response>
