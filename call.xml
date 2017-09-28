@@ -1,5 +1,5 @@
 <Response>
-    <Record action="https://github.com/alonanko/complain/blob/master/recordlog" recordSession = "true" redirect = "false" />
+    <Record action="https://github.com/alonanko/complain/blob/master/recordlog" redirect = "false" maxLength=9 />
     <Speak>No</Speak>
     <Wait length ="3" />
     <Speak>Nev ver</Speak>
