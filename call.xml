@@ -1,8 +1,5 @@
 <Response>
-    <Record action="https://github.com/alonanko/complain/blob/master/recordlog" startOnDialAnswer = "true" redirect = "false" maxLength = 200 />
-    <Dial>
-        <Number>18009346489</Number>
-    </Dial>
+    <Record action="https://github.com/alonanko/complain/blob/master/recordlog" recordSession = "true" redirect = "false" maxLength = 200 />
     <Wait length ="3" />
     <Speak>No</Speak>
     <Wait length ="3" />
