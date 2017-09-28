@@ -1,6 +1,9 @@
 <Response>
     <Record action="https://github.com/alonanko/complain/blob/master/recordlog" startOnDialAnswer = "true" redirect = "false" />
     <Wait length ="7" />
+    <Dial>
+        <Number>18002882020</Number>
+    </Dial>
     <Speak>No</Speak>
     <Wait length ="3" />
     <Speak>Nev ver</Speak>
